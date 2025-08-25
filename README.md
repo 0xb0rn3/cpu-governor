@@ -18,7 +18,7 @@ A lightweight, zero-dependency tool for controlling CPU governors on Linux syste
 ### Download & Compile
 ```bash
 # Clone or download the cpu-governor.c file
-git clone https://github.com/0xb0rn3/cpu-governor/
+git clone https://github.com/0xb0rn3/cpu-governor.git
 cd cpu-governor
 
 # Compile (requires gcc)
